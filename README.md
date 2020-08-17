@@ -13,6 +13,3 @@ install the required packages via "npm install" in the root directory (location 
 Program is run by executing "node app.js"
 The user is brought to a main menu with a list of commands that can be execute. Some options have further choices and prompts to interact with the system.
 
-
-![Employee Tracker](./assets/allEmployees.png)
-![Add Employee](./assets/addEmployee.png)
